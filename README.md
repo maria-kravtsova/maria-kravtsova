@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+<br>
+  Hi there 👋, I'm Maria Kravtsova! 🇲🇩 -> 🇺🇸
+  <br>
+</h1>
+<h3 align="center">
+  I'm an Engineer at <a href="https://www.givelively.org">Give Lively</a>, come work with me 👯!
+ </h3>
 
-<!--
-**maria-kravtsova/maria-kravtsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DBFB.svg?style=flat-square" alt="React">
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/RubyOnRails-red.svg?style=flat-square" alt="Ruby on Rails">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 Reach me at [@maria_hex](https://twitter.com/maria_hex)!
+

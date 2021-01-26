@@ -3,9 +3,6 @@
   Hi there 👋, I'm Maria Kravtsova! 🇲🇩 -> 🇺🇸
   <br>
 </h1>
-<h3 align="center">
-  I'm an Engineer at <a href="https://www.givelively.org">Give Lively</a>, come work with me 👯!
- </h3>
 
 
 <p align="center">

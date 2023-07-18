@@ -1,19 +1,19 @@
 <h1 align="center">
 <br>
-  Hi there 👋, I'm Maria Kravtsova! 🇲🇩 -> 🇺🇸
+  Hi there 👋, I'm Maria Kravtsova! 
   <br>
 </h1>
 
-
-<p align="center">
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DBFB.svg?style=flat-square" alt="React">
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/RubyOnRails-red.svg?style=flat-square" alt="Ruby on Rails">
-  </a>
+<p>
+I am a software engineer specializing in front end. 
+</p>
+<p>
+Moved from 🇲🇩 to 🇺🇸 Michigan and then New York.
+</p>
+<p>
+I have two silly dogs; Sagan (corgi) and Halley (golden retriever). 
 </p>
 
-
-- 📫 Reach me at [@maria_hex](https://twitter.com/maria_hex)!
+- 📸 🐶 Follow them on insta [sagan_and_halley](https://www.instagram.com/sagan_and_halley)
+- 📫 Reach me at [@maria_hex](https://infosec.exchange/@maria_hex)!
 

@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  Hi there 👋, I'm Maria Kravtsova! 
+  Hi there 👋, I'm Maria Kissinger! 
   <br>
 </h1>
 
